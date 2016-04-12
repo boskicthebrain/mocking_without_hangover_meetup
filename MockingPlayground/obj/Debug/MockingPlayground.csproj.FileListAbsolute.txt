@@ -1,0 +1,9 @@
+C:\Programiranje\MockingPlayground\MockingPlayground\bin\Debug\MockingPlayground.dll
+C:\Programiranje\MockingPlayground\MockingPlayground\bin\Debug\MockingPlayground.pdb
+C:\Programiranje\MockingPlayground\MockingPlayground\bin\Debug\Moq.dll
+C:\Programiranje\MockingPlayground\MockingPlayground\bin\Debug\nunit.framework.dll
+C:\Programiranje\MockingPlayground\MockingPlayground\bin\Debug\Moq.xml
+C:\Programiranje\MockingPlayground\MockingPlayground\bin\Debug\nunit.framework.xml
+C:\Programiranje\MockingPlayground\MockingPlayground\obj\Debug\MockingPlayground.csprojResolveAssemblyReference.cache
+C:\Programiranje\MockingPlayground\MockingPlayground\obj\Debug\MockingPlayground.dll
+C:\Programiranje\MockingPlayground\MockingPlayground\obj\Debug\MockingPlayground.pdb
