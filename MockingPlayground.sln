@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockingPlayground", "MockingPlayground\MockingPlayground.csproj", "{162EF4D4-A2AD-46E1-AD55-397B21372135}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{8946BCC7-6052-4EEB-B15C-0C3B4AA8AA13}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{162EF4D4-A2AD-46E1-AD55-397B21372135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162EF4D4-A2AD-46E1-AD55-397B21372135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162EF4D4-A2AD-46E1-AD55-397B21372135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162EF4D4-A2AD-46E1-AD55-397B21372135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
